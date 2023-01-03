@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<h1 align="center">Hello, I'm Tsydendambaev Bair</h1>
+<h3 align="center">Aspiring front-end developer learner</h3>
+
+- 🌱 I’m currently learning **Javascript**
+
+- 📫 How to reach me: **tsyden2.bair@gmail.com**
+
+![WitsonBair's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitsonBair&show_icons=true&theme=tokyonight)
+
 <!--
 **WitsonBair/WitsonBair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
