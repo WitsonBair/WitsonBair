@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **tsyden2.bair@gmail.com**
 
-![WitsonBair's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitsonBair&show_icons=true&theme=tokyonight)
+[![WitsonBair's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitsonBair&show_icons=true&theme=tokyonight)](https://github.com/WitsonBair/github-readme-stats)
 
 <!--
 **WitsonBair/WitsonBair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
