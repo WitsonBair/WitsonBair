@@ -4,6 +4,8 @@
 <h3 align="center">Aspiring front-end developer learner</h3>
 
 - 🌱 I’m currently learning **Javascript**
+  
+- 💻 You can visit my personal website: **https://witsonbair.github.io/**
 
 - 📫 How to reach me: **tsyden2.bair@gmail.com**
 
