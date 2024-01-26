@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hello, I'm Tsydendambaev Bair</h1>
-<h3 align="center">Aspiring front-end developer learner</h3>
+<h3 align="center">I'm a programmer</h3>
 
 - 🌱 I’m currently learning **Javascript**
   
