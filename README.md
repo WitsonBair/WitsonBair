@@ -3,7 +3,7 @@
 <h1 align="center">Hello, I'm Tsydendambaev Bair</h1>
 <h3 align="center">I'm a programmer</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 My stack: **Javascript**, **TypeScript**, **React**, **Redux**, **Java**
   
 - 💻 You can visit my personal website: **https://witsonbair.github.io/**
 
